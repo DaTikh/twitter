@@ -1,0 +1,1580 @@
+---
+- !ruby/object:Twitter::Tweet
+  attrs:
+    :created_at: Wed Apr 11 14:48:19 +0000 2018
+    :id: 984080710599368704
+    :id_str: '984080710599368704'
+    :text: 'LGV au sud de Bordeaux: le Conseil d''Etat rejette des recours en annulation
+      https://t.co/X9J6UL2veK #AFP https://t.co/YMtWKU2mqU'
+    :truncated: false
+    :entities:
+      :hashtags:
+      - :text: AFP
+        :indices:
+        - 100
+        - 104
+      :symbols: []
+      :user_mentions: []
+      :urls:
+      - :url: https://t.co/X9J6UL2veK
+        :expanded_url: http://u.afp.com/oce5
+        :display_url: u.afp.com/oce5
+        :indices:
+        - 76
+        - 99
+      :media:
+      - :id: 984080692022792193
+        :id_str: '984080692022792193'
+        :indices:
+        - 105
+        - 128
+        :media_url: http://pbs.twimg.com/media/DagoLO5W0AEcewL.jpg
+        :media_url_https: https://pbs.twimg.com/media/DagoLO5W0AEcewL.jpg
+        :url: https://t.co/YMtWKU2mqU
+        :display_url: pic.twitter.com/YMtWKU2mqU
+        :expanded_url: https://twitter.com/AFPBordeaux/status/984080710599368704/photo/1
+        :type: photo
+        :sizes:
+          :thumb:
+            :w: 150
+            :h: 150
+            :resize: crop
+          :small:
+            :w: 680
+            :h: 453
+            :resize: fit
+          :large:
+            :w: 1000
+            :h: 666
+            :resize: fit
+          :medium:
+            :w: 1000
+            :h: 666
+            :resize: fit
+    :extended_entities:
+      :media:
+      - :id: 984080692022792193
+        :id_str: '984080692022792193'
+        :indices:
+        - 105
+        - 128
+        :media_url: http://pbs.twimg.com/media/DagoLO5W0AEcewL.jpg
+        :media_url_https: https://pbs.twimg.com/media/DagoLO5W0AEcewL.jpg
+        :url: https://t.co/YMtWKU2mqU
+        :display_url: pic.twitter.com/YMtWKU2mqU
+        :expanded_url: https://twitter.com/AFPBordeaux/status/984080710599368704/photo/1
+        :type: photo
+        :sizes:
+          :thumb:
+            :w: 150
+            :h: 150
+            :resize: crop
+          :small:
+            :w: 680
+            :h: 453
+            :resize: fit
+          :large:
+            :w: 1000
+            :h: 666
+            :resize: fit
+          :medium:
+            :w: 1000
+            :h: 666
+            :resize: fit
+    :source: <a href="https://about.twitter.com/products/tweetdeck" rel="nofollow">TweetDeck</a>
+    :in_reply_to_status_id: 
+    :in_reply_to_status_id_str: 
+    :in_reply_to_user_id: 
+    :in_reply_to_user_id_str: 
+    :in_reply_to_screen_name: 
+    :user:
+      :id: 962573815
+      :id_str: '962573815'
+      :name: AFP Bordeaux
+      :screen_name: AFPBordeaux
+      :location: Bordeaux, Aquitaine
+      :description: Le compte de l'équipe de l'AFP dans le Sud-Ouest en Aquitaine,
+        Limousin et Poitou-Charentes
+      :url: http://t.co/nidDu0He8m
+      :entities:
+        :url:
+          :urls:
+          - :url: http://t.co/nidDu0He8m
+            :expanded_url: http://www.afp.com
+            :display_url: afp.com
+            :indices:
+            - 0
+            - 22
+        :description:
+          :urls: []
+      :protected: false
+      :followers_count: 11389
+      :friends_count: 391
+      :listed_count: 286
+      :created_at: Wed Nov 21 15:11:42 +0000 2012
+      :favourites_count: 20
+      :utc_offset: -25200
+      :time_zone: Pacific Time (US & Canada)
+      :geo_enabled: false
+      :verified: false
+      :statuses_count: 3187
+      :lang: fr
+      :contributors_enabled: false
+      :is_translator: false
+      :is_translation_enabled: false
+      :profile_background_color: C0DEED
+      :profile_background_image_url: http://abs.twimg.com/images/themes/theme1/bg.png
+      :profile_background_image_url_https: https://abs.twimg.com/images/themes/theme1/bg.png
+      :profile_background_tile: false
+      :profile_image_url: http://pbs.twimg.com/profile_images/590846049939513344/MZ4wJAOc_normal.png
+      :profile_image_url_https: https://pbs.twimg.com/profile_images/590846049939513344/MZ4wJAOc_normal.png
+      :profile_banner_url: https://pbs.twimg.com/profile_banners/962573815/1426250431
+      :profile_link_color: 1DA1F2
+      :profile_sidebar_border_color: C0DEED
+      :profile_sidebar_fill_color: DDEEF6
+      :profile_text_color: '333333'
+      :profile_use_background_image: true
+      :has_extended_profile: false
+      :default_profile: true
+      :default_profile_image: false
+      :following: true
+      :follow_request_sent: false
+      :notifications: false
+      :translator_type: none
+    :geo: 
+    :coordinates: 
+    :place: 
+    :contributors: 
+    :is_quote_status: false
+    :retweet_count: 0
+    :favorite_count: 1
+    :favorited: false
+    :retweeted: false
+    :possibly_sensitive: false
+    :lang: fr
+  _memoized_method_cache: !ruby/object:Memoizable::Memory
+    memory: !ruby/object:ThreadSafe::Cache
+      backend:
+        :retweeted_status?: false
+        :text: 'LGV au sud de Bordeaux: le Conseil d''Etat rejette des recours en
+          annulation https://t.co/X9J6UL2veK #AFP https://t.co/YMtWKU2mqU'
+        :full_text: 'LGV au sud de Bordeaux: le Conseil d''Etat rejette des recours
+          en annulation https://t.co/X9J6UL2veK #AFP https://t.co/YMtWKU2mqU'
+      default_proc: 
+    monitor: !ruby/object:Monitor
+      mon_owner: 
+      mon_count: 0
+      mon_mutex: !ruby/object:Thread::Mutex {}
+- !ruby/object:Twitter::Tweet
+  attrs:
+    :created_at: Tue Apr 10 13:26:30 +0000 2018
+    :id: 983697735323930624
+    :id_str: '983697735323930624'
+    :text: 'Haute-Vienne: un châtelain cherchant à chasser les chasseurs #AFP https://t.co/q6jtC4TiDq'
+    :truncated: false
+    :entities:
+      :hashtags:
+      - :text: AFP
+        :indices:
+        - 61
+        - 65
+      :symbols: []
+      :user_mentions: []
+      :urls: []
+      :media:
+      - :id: 983697536782356481
+        :id_str: '983697536782356481'
+        :indices:
+        - 66
+        - 89
+        :media_url: http://pbs.twimg.com/media/DabLsqZW0AE2LpZ.jpg
+        :media_url_https: https://pbs.twimg.com/media/DabLsqZW0AE2LpZ.jpg
+        :url: https://t.co/q6jtC4TiDq
+        :display_url: pic.twitter.com/q6jtC4TiDq
+        :expanded_url: https://twitter.com/AFPBordeaux/status/983697735323930624/photo/1
+        :type: photo
+        :sizes:
+          :thumb:
+            :w: 150
+            :h: 150
+            :resize: crop
+          :small:
+            :w: 680
+            :h: 453
+            :resize: fit
+          :medium:
+            :w: 1000
+            :h: 666
+            :resize: fit
+          :large:
+            :w: 1000
+            :h: 666
+            :resize: fit
+    :extended_entities:
+      :media:
+      - :id: 983697536782356481
+        :id_str: '983697536782356481'
+        :indices:
+        - 66
+        - 89
+        :media_url: http://pbs.twimg.com/media/DabLsqZW0AE2LpZ.jpg
+        :media_url_https: https://pbs.twimg.com/media/DabLsqZW0AE2LpZ.jpg
+        :url: https://t.co/q6jtC4TiDq
+        :display_url: pic.twitter.com/q6jtC4TiDq
+        :expanded_url: https://twitter.com/AFPBordeaux/status/983697735323930624/photo/1
+        :type: photo
+        :sizes:
+          :thumb:
+            :w: 150
+            :h: 150
+            :resize: crop
+          :small:
+            :w: 680
+            :h: 453
+            :resize: fit
+          :medium:
+            :w: 1000
+            :h: 666
+            :resize: fit
+          :large:
+            :w: 1000
+            :h: 666
+            :resize: fit
+      - :id: 983697597788512256
+        :id_str: '983697597788512256'
+        :indices:
+        - 66
+        - 89
+        :media_url: http://pbs.twimg.com/media/DabLwNqW4AAokL_.jpg
+        :media_url_https: https://pbs.twimg.com/media/DabLwNqW4AAokL_.jpg
+        :url: https://t.co/q6jtC4TiDq
+        :display_url: pic.twitter.com/q6jtC4TiDq
+        :expanded_url: https://twitter.com/AFPBordeaux/status/983697735323930624/photo/1
+        :type: photo
+        :sizes:
+          :thumb:
+            :w: 150
+            :h: 150
+            :resize: crop
+          :large:
+            :w: 1000
+            :h: 666
+            :resize: fit
+          :medium:
+            :w: 1000
+            :h: 666
+            :resize: fit
+          :small:
+            :w: 680
+            :h: 453
+            :resize: fit
+      - :id: 983697715463847937
+        :id_str: '983697715463847937'
+        :indices:
+        - 66
+        - 89
+        :media_url: http://pbs.twimg.com/media/DabL3ECWAAEMXCP.jpg
+        :media_url_https: https://pbs.twimg.com/media/DabL3ECWAAEMXCP.jpg
+        :url: https://t.co/q6jtC4TiDq
+        :display_url: pic.twitter.com/q6jtC4TiDq
+        :expanded_url: https://twitter.com/AFPBordeaux/status/983697735323930624/photo/1
+        :type: photo
+        :sizes:
+          :thumb:
+            :w: 150
+            :h: 150
+            :resize: crop
+          :small:
+            :w: 680
+            :h: 453
+            :resize: fit
+          :large:
+            :w: 1000
+            :h: 666
+            :resize: fit
+          :medium:
+            :w: 1000
+            :h: 666
+            :resize: fit
+    :source: <a href="https://about.twitter.com/products/tweetdeck" rel="nofollow">TweetDeck</a>
+    :in_reply_to_status_id: 
+    :in_reply_to_status_id_str: 
+    :in_reply_to_user_id: 
+    :in_reply_to_user_id_str: 
+    :in_reply_to_screen_name: 
+    :user:
+      :id: 962573815
+      :id_str: '962573815'
+      :name: AFP Bordeaux
+      :screen_name: AFPBordeaux
+      :location: Bordeaux, Aquitaine
+      :description: Le compte de l'équipe de l'AFP dans le Sud-Ouest en Aquitaine,
+        Limousin et Poitou-Charentes
+      :url: http://t.co/nidDu0He8m
+      :entities:
+        :url:
+          :urls:
+          - :url: http://t.co/nidDu0He8m
+            :expanded_url: http://www.afp.com
+            :display_url: afp.com
+            :indices:
+            - 0
+            - 22
+        :description:
+          :urls: []
+      :protected: false
+      :followers_count: 11389
+      :friends_count: 391
+      :listed_count: 286
+      :created_at: Wed Nov 21 15:11:42 +0000 2012
+      :favourites_count: 20
+      :utc_offset: -25200
+      :time_zone: Pacific Time (US & Canada)
+      :geo_enabled: false
+      :verified: false
+      :statuses_count: 3187
+      :lang: fr
+      :contributors_enabled: false
+      :is_translator: false
+      :is_translation_enabled: false
+      :profile_background_color: C0DEED
+      :profile_background_image_url: http://abs.twimg.com/images/themes/theme1/bg.png
+      :profile_background_image_url_https: https://abs.twimg.com/images/themes/theme1/bg.png
+      :profile_background_tile: false
+      :profile_image_url: http://pbs.twimg.com/profile_images/590846049939513344/MZ4wJAOc_normal.png
+      :profile_image_url_https: https://pbs.twimg.com/profile_images/590846049939513344/MZ4wJAOc_normal.png
+      :profile_banner_url: https://pbs.twimg.com/profile_banners/962573815/1426250431
+      :profile_link_color: 1DA1F2
+      :profile_sidebar_border_color: C0DEED
+      :profile_sidebar_fill_color: DDEEF6
+      :profile_text_color: '333333'
+      :profile_use_background_image: true
+      :has_extended_profile: false
+      :default_profile: true
+      :default_profile_image: false
+      :following: true
+      :follow_request_sent: false
+      :notifications: false
+      :translator_type: none
+    :geo: 
+    :coordinates: 
+    :place: 
+    :contributors: 
+    :is_quote_status: false
+    :retweet_count: 35
+    :favorite_count: 68
+    :favorited: false
+    :retweeted: false
+    :possibly_sensitive: false
+    :lang: fr
+  _memoized_method_cache: !ruby/object:Memoizable::Memory
+    memory: !ruby/object:ThreadSafe::Cache
+      backend:
+        :retweeted_status?: false
+        :text: 'Haute-Vienne: un châtelain cherchant à chasser les chasseurs #AFP
+          https://t.co/q6jtC4TiDq'
+        :full_text: 'Haute-Vienne: un châtelain cherchant à chasser les chasseurs
+          #AFP https://t.co/q6jtC4TiDq'
+      default_proc: 
+    monitor: !ruby/object:Monitor
+      mon_owner: 
+      mon_count: 0
+      mon_mutex: !ruby/object:Thread::Mutex {}
+- !ruby/object:Twitter::Tweet
+  attrs:
+    :created_at: Mon Apr 09 09:33:11 +0000 2018
+    :id: 983276629605732353
+    :id_str: '983276629605732353'
+    :text: 'Des poules sauvées de l''abattoir prennent leur retraite en Haute-Vienne
+      https://t.co/nZISOZCfYo #AFP https://t.co/h81gHsCSr2'
+    :truncated: false
+    :entities:
+      :hashtags:
+      - :text: AFP
+        :indices:
+        - 96
+        - 100
+      :symbols: []
+      :user_mentions: []
+      :urls:
+      - :url: https://t.co/nZISOZCfYo
+        :expanded_url: http://u.afp.com/oc3x
+        :display_url: u.afp.com/oc3x
+        :indices:
+        - 72
+        - 95
+      :media:
+      - :id: 983276072421806080
+        :id_str: '983276072421806080'
+        :indices:
+        - 101
+        - 124
+        :media_url: http://pbs.twimg.com/media/DaVMYNTX0AA_tb3.jpg
+        :media_url_https: https://pbs.twimg.com/media/DaVMYNTX0AA_tb3.jpg
+        :url: https://t.co/h81gHsCSr2
+        :display_url: pic.twitter.com/h81gHsCSr2
+        :expanded_url: https://twitter.com/AFPBordeaux/status/983276629605732353/photo/1
+        :type: photo
+        :sizes:
+          :thumb:
+            :w: 150
+            :h: 150
+            :resize: crop
+          :small:
+            :w: 680
+            :h: 453
+            :resize: fit
+          :large:
+            :w: 1000
+            :h: 666
+            :resize: fit
+          :medium:
+            :w: 1000
+            :h: 666
+            :resize: fit
+    :extended_entities:
+      :media:
+      - :id: 983276072421806080
+        :id_str: '983276072421806080'
+        :indices:
+        - 101
+        - 124
+        :media_url: http://pbs.twimg.com/media/DaVMYNTX0AA_tb3.jpg
+        :media_url_https: https://pbs.twimg.com/media/DaVMYNTX0AA_tb3.jpg
+        :url: https://t.co/h81gHsCSr2
+        :display_url: pic.twitter.com/h81gHsCSr2
+        :expanded_url: https://twitter.com/AFPBordeaux/status/983276629605732353/photo/1
+        :type: photo
+        :sizes:
+          :thumb:
+            :w: 150
+            :h: 150
+            :resize: crop
+          :small:
+            :w: 680
+            :h: 453
+            :resize: fit
+          :large:
+            :w: 1000
+            :h: 666
+            :resize: fit
+          :medium:
+            :w: 1000
+            :h: 666
+            :resize: fit
+      - :id: 983276256442703872
+        :id_str: '983276256442703872'
+        :indices:
+        - 101
+        - 124
+        :media_url: http://pbs.twimg.com/media/DaVMi61X4AAMjwz.jpg
+        :media_url_https: https://pbs.twimg.com/media/DaVMi61X4AAMjwz.jpg
+        :url: https://t.co/h81gHsCSr2
+        :display_url: pic.twitter.com/h81gHsCSr2
+        :expanded_url: https://twitter.com/AFPBordeaux/status/983276629605732353/photo/1
+        :type: photo
+        :sizes:
+          :large:
+            :w: 1000
+            :h: 666
+            :resize: fit
+          :thumb:
+            :w: 150
+            :h: 150
+            :resize: crop
+          :medium:
+            :w: 1000
+            :h: 666
+            :resize: fit
+          :small:
+            :w: 680
+            :h: 453
+            :resize: fit
+      - :id: 983276610681036800
+        :id_str: '983276610681036800'
+        :indices:
+        - 101
+        - 124
+        :media_url: http://pbs.twimg.com/media/DaVM3ieX4AAdi-0.jpg
+        :media_url_https: https://pbs.twimg.com/media/DaVM3ieX4AAdi-0.jpg
+        :url: https://t.co/h81gHsCSr2
+        :display_url: pic.twitter.com/h81gHsCSr2
+        :expanded_url: https://twitter.com/AFPBordeaux/status/983276629605732353/photo/1
+        :type: photo
+        :sizes:
+          :large:
+            :w: 1000
+            :h: 666
+            :resize: fit
+          :thumb:
+            :w: 150
+            :h: 150
+            :resize: crop
+          :small:
+            :w: 680
+            :h: 453
+            :resize: fit
+          :medium:
+            :w: 1000
+            :h: 666
+            :resize: fit
+    :source: <a href="https://about.twitter.com/products/tweetdeck" rel="nofollow">TweetDeck</a>
+    :in_reply_to_status_id: 
+    :in_reply_to_status_id_str: 
+    :in_reply_to_user_id: 
+    :in_reply_to_user_id_str: 
+    :in_reply_to_screen_name: 
+    :user:
+      :id: 962573815
+      :id_str: '962573815'
+      :name: AFP Bordeaux
+      :screen_name: AFPBordeaux
+      :location: Bordeaux, Aquitaine
+      :description: Le compte de l'équipe de l'AFP dans le Sud-Ouest en Aquitaine,
+        Limousin et Poitou-Charentes
+      :url: http://t.co/nidDu0He8m
+      :entities:
+        :url:
+          :urls:
+          - :url: http://t.co/nidDu0He8m
+            :expanded_url: http://www.afp.com
+            :display_url: afp.com
+            :indices:
+            - 0
+            - 22
+        :description:
+          :urls: []
+      :protected: false
+      :followers_count: 11389
+      :friends_count: 391
+      :listed_count: 286
+      :created_at: Wed Nov 21 15:11:42 +0000 2012
+      :favourites_count: 20
+      :utc_offset: -25200
+      :time_zone: Pacific Time (US & Canada)
+      :geo_enabled: false
+      :verified: false
+      :statuses_count: 3187
+      :lang: fr
+      :contributors_enabled: false
+      :is_translator: false
+      :is_translation_enabled: false
+      :profile_background_color: C0DEED
+      :profile_background_image_url: http://abs.twimg.com/images/themes/theme1/bg.png
+      :profile_background_image_url_https: https://abs.twimg.com/images/themes/theme1/bg.png
+      :profile_background_tile: false
+      :profile_image_url: http://pbs.twimg.com/profile_images/590846049939513344/MZ4wJAOc_normal.png
+      :profile_image_url_https: https://pbs.twimg.com/profile_images/590846049939513344/MZ4wJAOc_normal.png
+      :profile_banner_url: https://pbs.twimg.com/profile_banners/962573815/1426250431
+      :profile_link_color: 1DA1F2
+      :profile_sidebar_border_color: C0DEED
+      :profile_sidebar_fill_color: DDEEF6
+      :profile_text_color: '333333'
+      :profile_use_background_image: true
+      :has_extended_profile: false
+      :default_profile: true
+      :default_profile_image: false
+      :following: true
+      :follow_request_sent: false
+      :notifications: false
+      :translator_type: none
+    :geo: 
+    :coordinates: 
+    :place: 
+    :contributors: 
+    :is_quote_status: false
+    :retweet_count: 21
+    :favorite_count: 45
+    :favorited: false
+    :retweeted: false
+    :possibly_sensitive: false
+    :lang: fr
+  _memoized_method_cache: !ruby/object:Memoizable::Memory
+    memory: !ruby/object:ThreadSafe::Cache
+      backend:
+        :retweeted_status?: false
+        :text: 'Des poules sauvées de l''abattoir prennent leur retraite en Haute-Vienne
+          https://t.co/nZISOZCfYo #AFP https://t.co/h81gHsCSr2'
+        :full_text: 'Des poules sauvées de l''abattoir prennent leur retraite en Haute-Vienne
+          https://t.co/nZISOZCfYo #AFP https://t.co/h81gHsCSr2'
+      default_proc: 
+    monitor: !ruby/object:Monitor
+      mon_owner: 
+      mon_count: 0
+      mon_mutex: !ruby/object:Thread::Mutex {}
+- !ruby/object:Twitter::Tweet
+  attrs:
+    :created_at: Fri Apr 06 18:08:07 +0000 2018
+    :id: 982319050981347328
+    :id_str: '982319050981347328'
+    :text: 'Erosion à Soulac-sur-mer: les propriétaires d''un immeuble déboutés. https://t.co/bku3azVeHP
+      #AFP https://t.co/IDYFvMaf5c'
+    :truncated: false
+    :entities:
+      :hashtags:
+      - :text: AFP
+        :indices:
+        - 92
+        - 96
+      :symbols: []
+      :user_mentions: []
+      :urls:
+      - :url: https://t.co/bku3azVeHP
+        :expanded_url: http://u.afp.com/oqVm
+        :display_url: u.afp.com/oqVm
+        :indices:
+        - 68
+        - 91
+      :media:
+      - :id: 982318645308280832
+        :id_str: '982318645308280832'
+        :indices:
+        - 97
+        - 120
+        :media_url: http://pbs.twimg.com/media/DaHlmnXX0AAinNE.jpg
+        :media_url_https: https://pbs.twimg.com/media/DaHlmnXX0AAinNE.jpg
+        :url: https://t.co/IDYFvMaf5c
+        :display_url: pic.twitter.com/IDYFvMaf5c
+        :expanded_url: https://twitter.com/AFPBordeaux/status/982319050981347328/photo/1
+        :type: photo
+        :sizes:
+          :small:
+            :w: 499
+            :h: 317
+            :resize: fit
+          :thumb:
+            :w: 150
+            :h: 150
+            :resize: crop
+          :large:
+            :w: 499
+            :h: 317
+            :resize: fit
+          :medium:
+            :w: 499
+            :h: 317
+            :resize: fit
+    :extended_entities:
+      :media:
+      - :id: 982318645308280832
+        :id_str: '982318645308280832'
+        :indices:
+        - 97
+        - 120
+        :media_url: http://pbs.twimg.com/media/DaHlmnXX0AAinNE.jpg
+        :media_url_https: https://pbs.twimg.com/media/DaHlmnXX0AAinNE.jpg
+        :url: https://t.co/IDYFvMaf5c
+        :display_url: pic.twitter.com/IDYFvMaf5c
+        :expanded_url: https://twitter.com/AFPBordeaux/status/982319050981347328/photo/1
+        :type: photo
+        :sizes:
+          :small:
+            :w: 499
+            :h: 317
+            :resize: fit
+          :thumb:
+            :w: 150
+            :h: 150
+            :resize: crop
+          :large:
+            :w: 499
+            :h: 317
+            :resize: fit
+          :medium:
+            :w: 499
+            :h: 317
+            :resize: fit
+    :source: <a href="https://about.twitter.com/products/tweetdeck" rel="nofollow">TweetDeck</a>
+    :in_reply_to_status_id: 
+    :in_reply_to_status_id_str: 
+    :in_reply_to_user_id: 
+    :in_reply_to_user_id_str: 
+    :in_reply_to_screen_name: 
+    :user:
+      :id: 962573815
+      :id_str: '962573815'
+      :name: AFP Bordeaux
+      :screen_name: AFPBordeaux
+      :location: Bordeaux, Aquitaine
+      :description: Le compte de l'équipe de l'AFP dans le Sud-Ouest en Aquitaine,
+        Limousin et Poitou-Charentes
+      :url: http://t.co/nidDu0He8m
+      :entities:
+        :url:
+          :urls:
+          - :url: http://t.co/nidDu0He8m
+            :expanded_url: http://www.afp.com
+            :display_url: afp.com
+            :indices:
+            - 0
+            - 22
+        :description:
+          :urls: []
+      :protected: false
+      :followers_count: 11389
+      :friends_count: 391
+      :listed_count: 286
+      :created_at: Wed Nov 21 15:11:42 +0000 2012
+      :favourites_count: 20
+      :utc_offset: -25200
+      :time_zone: Pacific Time (US & Canada)
+      :geo_enabled: false
+      :verified: false
+      :statuses_count: 3187
+      :lang: fr
+      :contributors_enabled: false
+      :is_translator: false
+      :is_translation_enabled: false
+      :profile_background_color: C0DEED
+      :profile_background_image_url: http://abs.twimg.com/images/themes/theme1/bg.png
+      :profile_background_image_url_https: https://abs.twimg.com/images/themes/theme1/bg.png
+      :profile_background_tile: false
+      :profile_image_url: http://pbs.twimg.com/profile_images/590846049939513344/MZ4wJAOc_normal.png
+      :profile_image_url_https: https://pbs.twimg.com/profile_images/590846049939513344/MZ4wJAOc_normal.png
+      :profile_banner_url: https://pbs.twimg.com/profile_banners/962573815/1426250431
+      :profile_link_color: 1DA1F2
+      :profile_sidebar_border_color: C0DEED
+      :profile_sidebar_fill_color: DDEEF6
+      :profile_text_color: '333333'
+      :profile_use_background_image: true
+      :has_extended_profile: false
+      :default_profile: true
+      :default_profile_image: false
+      :following: true
+      :follow_request_sent: false
+      :notifications: false
+      :translator_type: none
+    :geo: 
+    :coordinates: 
+    :place: 
+    :contributors: 
+    :is_quote_status: false
+    :retweet_count: 29
+    :favorite_count: 16
+    :favorited: false
+    :retweeted: false
+    :possibly_sensitive: false
+    :lang: fr
+  _memoized_method_cache: !ruby/object:Memoizable::Memory
+    memory: !ruby/object:ThreadSafe::Cache
+      backend:
+        :retweeted_status?: false
+        :text: 'Erosion à Soulac-sur-mer: les propriétaires d''un immeuble déboutés.
+          https://t.co/bku3azVeHP #AFP https://t.co/IDYFvMaf5c'
+        :full_text: 'Erosion à Soulac-sur-mer: les propriétaires d''un immeuble déboutés.
+          https://t.co/bku3azVeHP #AFP https://t.co/IDYFvMaf5c'
+      default_proc: 
+    monitor: !ruby/object:Monitor
+      mon_owner: 
+      mon_count: 0
+      mon_mutex: !ruby/object:Thread::Mutex {}
+- !ruby/object:Twitter::Tweet
+  attrs:
+    :created_at: Fri Apr 06 06:23:28 +0000 2018
+    :id: 982141720249876480
+    :id_str: '982141720249876480'
+    :text: 'Primeurs de Bordeaux: le millésime 2017 atypique à cause du gel https://t.co/G0AeVaTo9V
+      #AFP https://t.co/OgR55eJtDY'
+    :truncated: false
+    :entities:
+      :hashtags:
+      - :text: AFP
+        :indices:
+        - 88
+        - 92
+      :symbols: []
+      :user_mentions: []
+      :urls:
+      - :url: https://t.co/G0AeVaTo9V
+        :expanded_url: http://u.afp.com/oqEX
+        :display_url: u.afp.com/oqEX
+        :indices:
+        - 64
+        - 87
+      :media:
+      - :id: 982141697600634880
+        :id_str: '982141697600634880'
+        :indices:
+        - 93
+        - 116
+        :media_url: http://pbs.twimg.com/media/DaFEq5yVwAAH-C4.jpg
+        :media_url_https: https://pbs.twimg.com/media/DaFEq5yVwAAH-C4.jpg
+        :url: https://t.co/OgR55eJtDY
+        :display_url: pic.twitter.com/OgR55eJtDY
+        :expanded_url: https://twitter.com/AFPBordeaux/status/982141720249876480/photo/1
+        :type: photo
+        :sizes:
+          :thumb:
+            :w: 150
+            :h: 150
+            :resize: crop
+          :medium:
+            :w: 1000
+            :h: 689
+            :resize: fit
+          :small:
+            :w: 680
+            :h: 469
+            :resize: fit
+          :large:
+            :w: 1000
+            :h: 689
+            :resize: fit
+    :extended_entities:
+      :media:
+      - :id: 982141697600634880
+        :id_str: '982141697600634880'
+        :indices:
+        - 93
+        - 116
+        :media_url: http://pbs.twimg.com/media/DaFEq5yVwAAH-C4.jpg
+        :media_url_https: https://pbs.twimg.com/media/DaFEq5yVwAAH-C4.jpg
+        :url: https://t.co/OgR55eJtDY
+        :display_url: pic.twitter.com/OgR55eJtDY
+        :expanded_url: https://twitter.com/AFPBordeaux/status/982141720249876480/photo/1
+        :type: photo
+        :sizes:
+          :thumb:
+            :w: 150
+            :h: 150
+            :resize: crop
+          :medium:
+            :w: 1000
+            :h: 689
+            :resize: fit
+          :small:
+            :w: 680
+            :h: 469
+            :resize: fit
+          :large:
+            :w: 1000
+            :h: 689
+            :resize: fit
+    :source: <a href="https://about.twitter.com/products/tweetdeck" rel="nofollow">TweetDeck</a>
+    :in_reply_to_status_id: 
+    :in_reply_to_status_id_str: 
+    :in_reply_to_user_id: 
+    :in_reply_to_user_id_str: 
+    :in_reply_to_screen_name: 
+    :user:
+      :id: 962573815
+      :id_str: '962573815'
+      :name: AFP Bordeaux
+      :screen_name: AFPBordeaux
+      :location: Bordeaux, Aquitaine
+      :description: Le compte de l'équipe de l'AFP dans le Sud-Ouest en Aquitaine,
+        Limousin et Poitou-Charentes
+      :url: http://t.co/nidDu0He8m
+      :entities:
+        :url:
+          :urls:
+          - :url: http://t.co/nidDu0He8m
+            :expanded_url: http://www.afp.com
+            :display_url: afp.com
+            :indices:
+            - 0
+            - 22
+        :description:
+          :urls: []
+      :protected: false
+      :followers_count: 11389
+      :friends_count: 391
+      :listed_count: 286
+      :created_at: Wed Nov 21 15:11:42 +0000 2012
+      :favourites_count: 20
+      :utc_offset: -25200
+      :time_zone: Pacific Time (US & Canada)
+      :geo_enabled: false
+      :verified: false
+      :statuses_count: 3187
+      :lang: fr
+      :contributors_enabled: false
+      :is_translator: false
+      :is_translation_enabled: false
+      :profile_background_color: C0DEED
+      :profile_background_image_url: http://abs.twimg.com/images/themes/theme1/bg.png
+      :profile_background_image_url_https: https://abs.twimg.com/images/themes/theme1/bg.png
+      :profile_background_tile: false
+      :profile_image_url: http://pbs.twimg.com/profile_images/590846049939513344/MZ4wJAOc_normal.png
+      :profile_image_url_https: https://pbs.twimg.com/profile_images/590846049939513344/MZ4wJAOc_normal.png
+      :profile_banner_url: https://pbs.twimg.com/profile_banners/962573815/1426250431
+      :profile_link_color: 1DA1F2
+      :profile_sidebar_border_color: C0DEED
+      :profile_sidebar_fill_color: DDEEF6
+      :profile_text_color: '333333'
+      :profile_use_background_image: true
+      :has_extended_profile: false
+      :default_profile: true
+      :default_profile_image: false
+      :following: true
+      :follow_request_sent: false
+      :notifications: false
+      :translator_type: none
+    :geo: 
+    :coordinates: 
+    :place: 
+    :contributors: 
+    :is_quote_status: false
+    :retweet_count: 9
+    :favorite_count: 4
+    :favorited: false
+    :retweeted: false
+    :possibly_sensitive: false
+    :lang: fr
+  _memoized_method_cache: !ruby/object:Memoizable::Memory
+    memory: !ruby/object:ThreadSafe::Cache
+      backend:
+        :retweeted_status?: false
+        :text: 'Primeurs de Bordeaux: le millésime 2017 atypique à cause du gel https://t.co/G0AeVaTo9V
+          #AFP https://t.co/OgR55eJtDY'
+        :full_text: 'Primeurs de Bordeaux: le millésime 2017 atypique à cause du gel
+          https://t.co/G0AeVaTo9V #AFP https://t.co/OgR55eJtDY'
+      default_proc: 
+    monitor: !ruby/object:Monitor
+      mon_owner: 
+      mon_count: 0
+      mon_mutex: !ruby/object:Thread::Mutex {}
+- !ruby/object:Twitter::Tweet
+  attrs:
+    :created_at: Thu Apr 05 15:28:25 +0000 2018
+    :id: 981916475274485763
+    :id_str: '981916475274485763'
+    :text: 'Haute-Vienne: l''emboutisseur Steva (115 salariés) en redressement judiciaire
+      https://t.co/RHLRG6Y2V6 #AFP'
+    :truncated: false
+    :entities:
+      :hashtags:
+      - :text: AFP
+        :indices:
+        - 101
+        - 105
+      :symbols: []
+      :user_mentions: []
+      :urls:
+      - :url: https://t.co/RHLRG6Y2V6
+        :expanded_url: http://u.afp.com/oq6E
+        :display_url: u.afp.com/oq6E
+        :indices:
+        - 77
+        - 100
+    :source: <a href="https://about.twitter.com/products/tweetdeck" rel="nofollow">TweetDeck</a>
+    :in_reply_to_status_id: 
+    :in_reply_to_status_id_str: 
+    :in_reply_to_user_id: 
+    :in_reply_to_user_id_str: 
+    :in_reply_to_screen_name: 
+    :user:
+      :id: 962573815
+      :id_str: '962573815'
+      :name: AFP Bordeaux
+      :screen_name: AFPBordeaux
+      :location: Bordeaux, Aquitaine
+      :description: Le compte de l'équipe de l'AFP dans le Sud-Ouest en Aquitaine,
+        Limousin et Poitou-Charentes
+      :url: http://t.co/nidDu0He8m
+      :entities:
+        :url:
+          :urls:
+          - :url: http://t.co/nidDu0He8m
+            :expanded_url: http://www.afp.com
+            :display_url: afp.com
+            :indices:
+            - 0
+            - 22
+        :description:
+          :urls: []
+      :protected: false
+      :followers_count: 11389
+      :friends_count: 391
+      :listed_count: 286
+      :created_at: Wed Nov 21 15:11:42 +0000 2012
+      :favourites_count: 20
+      :utc_offset: -25200
+      :time_zone: Pacific Time (US & Canada)
+      :geo_enabled: false
+      :verified: false
+      :statuses_count: 3187
+      :lang: fr
+      :contributors_enabled: false
+      :is_translator: false
+      :is_translation_enabled: false
+      :profile_background_color: C0DEED
+      :profile_background_image_url: http://abs.twimg.com/images/themes/theme1/bg.png
+      :profile_background_image_url_https: https://abs.twimg.com/images/themes/theme1/bg.png
+      :profile_background_tile: false
+      :profile_image_url: http://pbs.twimg.com/profile_images/590846049939513344/MZ4wJAOc_normal.png
+      :profile_image_url_https: https://pbs.twimg.com/profile_images/590846049939513344/MZ4wJAOc_normal.png
+      :profile_banner_url: https://pbs.twimg.com/profile_banners/962573815/1426250431
+      :profile_link_color: 1DA1F2
+      :profile_sidebar_border_color: C0DEED
+      :profile_sidebar_fill_color: DDEEF6
+      :profile_text_color: '333333'
+      :profile_use_background_image: true
+      :has_extended_profile: false
+      :default_profile: true
+      :default_profile_image: false
+      :following: true
+      :follow_request_sent: false
+      :notifications: false
+      :translator_type: none
+    :geo: 
+    :coordinates: 
+    :place: 
+    :contributors: 
+    :is_quote_status: false
+    :retweet_count: 0
+    :favorite_count: 1
+    :favorited: false
+    :retweeted: false
+    :possibly_sensitive: false
+    :lang: fr
+  _memoized_method_cache: !ruby/object:Memoizable::Memory
+    memory: !ruby/object:ThreadSafe::Cache
+      backend:
+        :retweeted_status?: false
+        :text: 'Haute-Vienne: l''emboutisseur Steva (115 salariés) en redressement
+          judiciaire https://t.co/RHLRG6Y2V6 #AFP'
+        :full_text: 'Haute-Vienne: l''emboutisseur Steva (115 salariés) en redressement
+          judiciaire https://t.co/RHLRG6Y2V6 #AFP'
+      default_proc: 
+    monitor: !ruby/object:Monitor
+      mon_owner: 
+      mon_count: 0
+      mon_mutex: !ruby/object:Thread::Mutex {}
+- !ruby/object:Twitter::Tweet
+  attrs:
+    :created_at: Thu Apr 05 15:23:49 +0000 2018
+    :id: 981915317269037057
+    :id_str: '981915317269037057'
+    :text: 'Fraude au vin en Gironde: 200.000 euros d''amende pour une société de
+      négoce https://t.co/E2UQH73ajQ #AFP https://t.co/IRfP0o33fj'
+    :truncated: false
+    :entities:
+      :hashtags:
+      - :text: AFP
+        :indices:
+        - 100
+        - 104
+      :symbols: []
+      :user_mentions: []
+      :urls:
+      - :url: https://t.co/E2UQH73ajQ
+        :expanded_url: http://u.afp.com/oq6b
+        :display_url: u.afp.com/oq6b
+        :indices:
+        - 76
+        - 99
+      :media:
+      - :id: 981915286197678081
+        :id_str: '981915286197678081'
+        :indices:
+        - 105
+        - 128
+        :media_url: http://pbs.twimg.com/media/DaB2wBlWsAEluHr.jpg
+        :media_url_https: https://pbs.twimg.com/media/DaB2wBlWsAEluHr.jpg
+        :url: https://t.co/IRfP0o33fj
+        :display_url: pic.twitter.com/IRfP0o33fj
+        :expanded_url: https://twitter.com/AFPBordeaux/status/981915317269037057/photo/1
+        :type: photo
+        :sizes:
+          :large:
+            :w: 1000
+            :h: 1402
+            :resize: fit
+          :small:
+            :w: 485
+            :h: 680
+            :resize: fit
+          :thumb:
+            :w: 150
+            :h: 150
+            :resize: crop
+          :medium:
+            :w: 856
+            :h: 1200
+            :resize: fit
+    :extended_entities:
+      :media:
+      - :id: 981915286197678081
+        :id_str: '981915286197678081'
+        :indices:
+        - 105
+        - 128
+        :media_url: http://pbs.twimg.com/media/DaB2wBlWsAEluHr.jpg
+        :media_url_https: https://pbs.twimg.com/media/DaB2wBlWsAEluHr.jpg
+        :url: https://t.co/IRfP0o33fj
+        :display_url: pic.twitter.com/IRfP0o33fj
+        :expanded_url: https://twitter.com/AFPBordeaux/status/981915317269037057/photo/1
+        :type: photo
+        :sizes:
+          :large:
+            :w: 1000
+            :h: 1402
+            :resize: fit
+          :small:
+            :w: 485
+            :h: 680
+            :resize: fit
+          :thumb:
+            :w: 150
+            :h: 150
+            :resize: crop
+          :medium:
+            :w: 856
+            :h: 1200
+            :resize: fit
+    :source: <a href="https://about.twitter.com/products/tweetdeck" rel="nofollow">TweetDeck</a>
+    :in_reply_to_status_id: 
+    :in_reply_to_status_id_str: 
+    :in_reply_to_user_id: 
+    :in_reply_to_user_id_str: 
+    :in_reply_to_screen_name: 
+    :user:
+      :id: 962573815
+      :id_str: '962573815'
+      :name: AFP Bordeaux
+      :screen_name: AFPBordeaux
+      :location: Bordeaux, Aquitaine
+      :description: Le compte de l'équipe de l'AFP dans le Sud-Ouest en Aquitaine,
+        Limousin et Poitou-Charentes
+      :url: http://t.co/nidDu0He8m
+      :entities:
+        :url:
+          :urls:
+          - :url: http://t.co/nidDu0He8m
+            :expanded_url: http://www.afp.com
+            :display_url: afp.com
+            :indices:
+            - 0
+            - 22
+        :description:
+          :urls: []
+      :protected: false
+      :followers_count: 11389
+      :friends_count: 391
+      :listed_count: 286
+      :created_at: Wed Nov 21 15:11:42 +0000 2012
+      :favourites_count: 20
+      :utc_offset: -25200
+      :time_zone: Pacific Time (US & Canada)
+      :geo_enabled: false
+      :verified: false
+      :statuses_count: 3187
+      :lang: fr
+      :contributors_enabled: false
+      :is_translator: false
+      :is_translation_enabled: false
+      :profile_background_color: C0DEED
+      :profile_background_image_url: http://abs.twimg.com/images/themes/theme1/bg.png
+      :profile_background_image_url_https: https://abs.twimg.com/images/themes/theme1/bg.png
+      :profile_background_tile: false
+      :profile_image_url: http://pbs.twimg.com/profile_images/590846049939513344/MZ4wJAOc_normal.png
+      :profile_image_url_https: https://pbs.twimg.com/profile_images/590846049939513344/MZ4wJAOc_normal.png
+      :profile_banner_url: https://pbs.twimg.com/profile_banners/962573815/1426250431
+      :profile_link_color: 1DA1F2
+      :profile_sidebar_border_color: C0DEED
+      :profile_sidebar_fill_color: DDEEF6
+      :profile_text_color: '333333'
+      :profile_use_background_image: true
+      :has_extended_profile: false
+      :default_profile: true
+      :default_profile_image: false
+      :following: true
+      :follow_request_sent: false
+      :notifications: false
+      :translator_type: none
+    :geo: 
+    :coordinates: 
+    :place: 
+    :contributors: 
+    :is_quote_status: false
+    :retweet_count: 4
+    :favorite_count: 1
+    :favorited: false
+    :retweeted: false
+    :possibly_sensitive: false
+    :lang: fr
+  _memoized_method_cache: !ruby/object:Memoizable::Memory
+    memory: !ruby/object:ThreadSafe::Cache
+      backend:
+        :retweeted_status?: false
+        :text: 'Fraude au vin en Gironde: 200.000 euros d''amende pour une société
+          de négoce https://t.co/E2UQH73ajQ #AFP https://t.co/IRfP0o33fj'
+        :full_text: 'Fraude au vin en Gironde: 200.000 euros d''amende pour une société
+          de négoce https://t.co/E2UQH73ajQ #AFP https://t.co/IRfP0o33fj'
+      default_proc: 
+    monitor: !ruby/object:Monitor
+      mon_owner: 
+      mon_count: 0
+      mon_mutex: !ruby/object:Thread::Mutex {}
+- !ruby/object:Twitter::Tweet
+  attrs:
+    :created_at: Thu Apr 05 13:50:22 +0000 2018
+    :id: 981891799240335360
+    :id_str: '981891799240335360'
+    :text: 'Gironde : deux morts dans un accident d''hélicoptère #AFP https://t.co/8XcoU04qnL'
+    :truncated: false
+    :entities:
+      :hashtags:
+      - :text: AFP
+        :indices:
+        - 52
+        - 56
+      :symbols: []
+      :user_mentions: []
+      :urls: []
+      :media:
+      - :id: 981891777857839107
+        :id_str: '981891777857839107'
+        :indices:
+        - 57
+        - 80
+        :media_url: http://pbs.twimg.com/media/DaBhXqMX4AM-S7m.jpg
+        :media_url_https: https://pbs.twimg.com/media/DaBhXqMX4AM-S7m.jpg
+        :url: https://t.co/8XcoU04qnL
+        :display_url: pic.twitter.com/8XcoU04qnL
+        :expanded_url: https://twitter.com/AFPBordeaux/status/981891799240335360/photo/1
+        :type: photo
+        :sizes:
+          :medium:
+            :w: 1000
+            :h: 665
+            :resize: fit
+          :thumb:
+            :w: 150
+            :h: 150
+            :resize: crop
+          :small:
+            :w: 680
+            :h: 452
+            :resize: fit
+          :large:
+            :w: 1000
+            :h: 665
+            :resize: fit
+    :extended_entities:
+      :media:
+      - :id: 981891777857839107
+        :id_str: '981891777857839107'
+        :indices:
+        - 57
+        - 80
+        :media_url: http://pbs.twimg.com/media/DaBhXqMX4AM-S7m.jpg
+        :media_url_https: https://pbs.twimg.com/media/DaBhXqMX4AM-S7m.jpg
+        :url: https://t.co/8XcoU04qnL
+        :display_url: pic.twitter.com/8XcoU04qnL
+        :expanded_url: https://twitter.com/AFPBordeaux/status/981891799240335360/photo/1
+        :type: photo
+        :sizes:
+          :medium:
+            :w: 1000
+            :h: 665
+            :resize: fit
+          :thumb:
+            :w: 150
+            :h: 150
+            :resize: crop
+          :small:
+            :w: 680
+            :h: 452
+            :resize: fit
+          :large:
+            :w: 1000
+            :h: 665
+            :resize: fit
+    :source: <a href="https://about.twitter.com/products/tweetdeck" rel="nofollow">TweetDeck</a>
+    :in_reply_to_status_id: 
+    :in_reply_to_status_id_str: 
+    :in_reply_to_user_id: 
+    :in_reply_to_user_id_str: 
+    :in_reply_to_screen_name: 
+    :user:
+      :id: 962573815
+      :id_str: '962573815'
+      :name: AFP Bordeaux
+      :screen_name: AFPBordeaux
+      :location: Bordeaux, Aquitaine
+      :description: Le compte de l'équipe de l'AFP dans le Sud-Ouest en Aquitaine,
+        Limousin et Poitou-Charentes
+      :url: http://t.co/nidDu0He8m
+      :entities:
+        :url:
+          :urls:
+          - :url: http://t.co/nidDu0He8m
+            :expanded_url: http://www.afp.com
+            :display_url: afp.com
+            :indices:
+            - 0
+            - 22
+        :description:
+          :urls: []
+      :protected: false
+      :followers_count: 11389
+      :friends_count: 391
+      :listed_count: 286
+      :created_at: Wed Nov 21 15:11:42 +0000 2012
+      :favourites_count: 20
+      :utc_offset: -25200
+      :time_zone: Pacific Time (US & Canada)
+      :geo_enabled: false
+      :verified: false
+      :statuses_count: 3187
+      :lang: fr
+      :contributors_enabled: false
+      :is_translator: false
+      :is_translation_enabled: false
+      :profile_background_color: C0DEED
+      :profile_background_image_url: http://abs.twimg.com/images/themes/theme1/bg.png
+      :profile_background_image_url_https: https://abs.twimg.com/images/themes/theme1/bg.png
+      :profile_background_tile: false
+      :profile_image_url: http://pbs.twimg.com/profile_images/590846049939513344/MZ4wJAOc_normal.png
+      :profile_image_url_https: https://pbs.twimg.com/profile_images/590846049939513344/MZ4wJAOc_normal.png
+      :profile_banner_url: https://pbs.twimg.com/profile_banners/962573815/1426250431
+      :profile_link_color: 1DA1F2
+      :profile_sidebar_border_color: C0DEED
+      :profile_sidebar_fill_color: DDEEF6
+      :profile_text_color: '333333'
+      :profile_use_background_image: true
+      :has_extended_profile: false
+      :default_profile: true
+      :default_profile_image: false
+      :following: true
+      :follow_request_sent: false
+      :notifications: false
+      :translator_type: none
+    :geo: 
+    :coordinates: 
+    :place: 
+    :contributors: 
+    :is_quote_status: false
+    :retweet_count: 1
+    :favorite_count: 0
+    :favorited: false
+    :retweeted: false
+    :possibly_sensitive: false
+    :lang: fr
+  _memoized_method_cache: !ruby/object:Memoizable::Memory
+    memory: !ruby/object:ThreadSafe::Cache
+      backend:
+        :retweeted_status?: false
+        :text: 'Gironde : deux morts dans un accident d''hélicoptère #AFP https://t.co/8XcoU04qnL'
+        :full_text: 'Gironde : deux morts dans un accident d''hélicoptère #AFP https://t.co/8XcoU04qnL'
+      default_proc: 
+    monitor: !ruby/object:Monitor
+      mon_owner: 
+      mon_count: 0
+      mon_mutex: !ruby/object:Thread::Mutex {}
+- !ruby/object:Twitter::Tweet
+  attrs:
+    :created_at: Thu Apr 05 13:30:02 +0000 2018
+    :id: 981886684295032833
+    :id_str: '981886684295032833'
+    :text: 'Gironde: une femme soupçonnée d''avoir tué ses trois enfants https://t.co/nN3srTuQIV
+      #AFP'
+    :truncated: false
+    :entities:
+      :hashtags:
+      - :text: AFP
+        :indices:
+        - 84
+        - 88
+      :symbols: []
+      :user_mentions: []
+      :urls:
+      - :url: https://t.co/nN3srTuQIV
+        :expanded_url: http://u.afp.com/oqBE
+        :display_url: u.afp.com/oqBE
+        :indices:
+        - 60
+        - 83
+    :source: <a href="https://about.twitter.com/products/tweetdeck" rel="nofollow">TweetDeck</a>
+    :in_reply_to_status_id: 
+    :in_reply_to_status_id_str: 
+    :in_reply_to_user_id: 
+    :in_reply_to_user_id_str: 
+    :in_reply_to_screen_name: 
+    :user:
+      :id: 962573815
+      :id_str: '962573815'
+      :name: AFP Bordeaux
+      :screen_name: AFPBordeaux
+      :location: Bordeaux, Aquitaine
+      :description: Le compte de l'équipe de l'AFP dans le Sud-Ouest en Aquitaine,
+        Limousin et Poitou-Charentes
+      :url: http://t.co/nidDu0He8m
+      :entities:
+        :url:
+          :urls:
+          - :url: http://t.co/nidDu0He8m
+            :expanded_url: http://www.afp.com
+            :display_url: afp.com
+            :indices:
+            - 0
+            - 22
+        :description:
+          :urls: []
+      :protected: false
+      :followers_count: 11389
+      :friends_count: 391
+      :listed_count: 286
+      :created_at: Wed Nov 21 15:11:42 +0000 2012
+      :favourites_count: 20
+      :utc_offset: -25200
+      :time_zone: Pacific Time (US & Canada)
+      :geo_enabled: false
+      :verified: false
+      :statuses_count: 3187
+      :lang: fr
+      :contributors_enabled: false
+      :is_translator: false
+      :is_translation_enabled: false
+      :profile_background_color: C0DEED
+      :profile_background_image_url: http://abs.twimg.com/images/themes/theme1/bg.png
+      :profile_background_image_url_https: https://abs.twimg.com/images/themes/theme1/bg.png
+      :profile_background_tile: false
+      :profile_image_url: http://pbs.twimg.com/profile_images/590846049939513344/MZ4wJAOc_normal.png
+      :profile_image_url_https: https://pbs.twimg.com/profile_images/590846049939513344/MZ4wJAOc_normal.png
+      :profile_banner_url: https://pbs.twimg.com/profile_banners/962573815/1426250431
+      :profile_link_color: 1DA1F2
+      :profile_sidebar_border_color: C0DEED
+      :profile_sidebar_fill_color: DDEEF6
+      :profile_text_color: '333333'
+      :profile_use_background_image: true
+      :has_extended_profile: false
+      :default_profile: true
+      :default_profile_image: false
+      :following: true
+      :follow_request_sent: false
+      :notifications: false
+      :translator_type: none
+    :geo: 
+    :coordinates: 
+    :place: 
+    :contributors: 
+    :is_quote_status: false
+    :retweet_count: 2
+    :favorite_count: 2
+    :favorited: false
+    :retweeted: false
+    :possibly_sensitive: false
+    :lang: fr
+  _memoized_method_cache: !ruby/object:Memoizable::Memory
+    memory: !ruby/object:ThreadSafe::Cache
+      backend:
+        :retweeted_status?: false
+        :text: 'Gironde: une femme soupçonnée d''avoir tué ses trois enfants https://t.co/nN3srTuQIV
+          #AFP'
+        :full_text: 'Gironde: une femme soupçonnée d''avoir tué ses trois enfants
+          https://t.co/nN3srTuQIV #AFP'
+      default_proc: 
+    monitor: !ruby/object:Monitor
+      mon_owner: 
+      mon_count: 0
+      mon_mutex: !ruby/object:Thread::Mutex {}
+- !ruby/object:Twitter::Tweet
+  attrs:
+    :created_at: Thu Mar 29 10:28:19 +0000 2018
+    :id: 979304236394647552
+    :id_str: '979304236394647552'
+    :text: 'Jeux vidéo: les gamers ont rendez-vous à Poitiers pour le week-end de
+      Pâques. #AFP https://t.co/12fNMIJwQf'
+    :truncated: false
+    :entities:
+      :hashtags:
+      - :text: AFP
+        :indices:
+        - 78
+        - 82
+      :symbols: []
+      :user_mentions: []
+      :urls:
+      - :url: https://t.co/12fNMIJwQf
+        :expanded_url: http://u.afp.com/oTBd
+        :display_url: u.afp.com/oTBd
+        :indices:
+        - 83
+        - 106
+    :source: <a href="https://about.twitter.com/products/tweetdeck" rel="nofollow">TweetDeck</a>
+    :in_reply_to_status_id: 
+    :in_reply_to_status_id_str: 
+    :in_reply_to_user_id: 
+    :in_reply_to_user_id_str: 
+    :in_reply_to_screen_name: 
+    :user:
+      :id: 962573815
+      :id_str: '962573815'
+      :name: AFP Bordeaux
+      :screen_name: AFPBordeaux
+      :location: Bordeaux, Aquitaine
+      :description: Le compte de l'équipe de l'AFP dans le Sud-Ouest en Aquitaine,
+        Limousin et Poitou-Charentes
+      :url: http://t.co/nidDu0He8m
+      :entities:
+        :url:
+          :urls:
+          - :url: http://t.co/nidDu0He8m
+            :expanded_url: http://www.afp.com
+            :display_url: afp.com
+            :indices:
+            - 0
+            - 22
+        :description:
+          :urls: []
+      :protected: false
+      :followers_count: 11389
+      :friends_count: 391
+      :listed_count: 286
+      :created_at: Wed Nov 21 15:11:42 +0000 2012
+      :favourites_count: 20
+      :utc_offset: -25200
+      :time_zone: Pacific Time (US & Canada)
+      :geo_enabled: false
+      :verified: false
+      :statuses_count: 3187
+      :lang: fr
+      :contributors_enabled: false
+      :is_translator: false
+      :is_translation_enabled: false
+      :profile_background_color: C0DEED
+      :profile_background_image_url: http://abs.twimg.com/images/themes/theme1/bg.png
+      :profile_background_image_url_https: https://abs.twimg.com/images/themes/theme1/bg.png
+      :profile_background_tile: false
+      :profile_image_url: http://pbs.twimg.com/profile_images/590846049939513344/MZ4wJAOc_normal.png
+      :profile_image_url_https: https://pbs.twimg.com/profile_images/590846049939513344/MZ4wJAOc_normal.png
+      :profile_banner_url: https://pbs.twimg.com/profile_banners/962573815/1426250431
+      :profile_link_color: 1DA1F2
+      :profile_sidebar_border_color: C0DEED
+      :profile_sidebar_fill_color: DDEEF6
+      :profile_text_color: '333333'
+      :profile_use_background_image: true
+      :has_extended_profile: false
+      :default_profile: true
+      :default_profile_image: false
+      :following: true
+      :follow_request_sent: false
+      :notifications: false
+      :translator_type: none
+    :geo: 
+    :coordinates: 
+    :place: 
+    :contributors: 
+    :is_quote_status: false
+    :retweet_count: 2
+    :favorite_count: 1
+    :favorited: false
+    :retweeted: false
+    :possibly_sensitive: false
+    :lang: fr
+  _memoized_method_cache: !ruby/object:Memoizable::Memory
+    memory: !ruby/object:ThreadSafe::Cache
+      backend:
+        :retweeted_status?: false
+        :text: 'Jeux vidéo: les gamers ont rendez-vous à Poitiers pour le week-end
+          de Pâques. #AFP https://t.co/12fNMIJwQf'
+        :full_text: 'Jeux vidéo: les gamers ont rendez-vous à Poitiers pour le week-end
+          de Pâques. #AFP https://t.co/12fNMIJwQf'
+      default_proc: 
+    monitor: !ruby/object:Monitor
+      mon_owner: 
+      mon_count: 0
+      mon_mutex: !ruby/object:Thread::Mutex {}
